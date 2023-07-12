@@ -17,7 +17,7 @@ public class EvenOdd {
 		}
 		System.out.println(arrayList);
 		
-		//List<Integer> list2 = Array.asList(22,33,44,34);
+		
 		
 		
 	}
